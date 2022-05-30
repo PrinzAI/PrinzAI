@@ -21,7 +21,7 @@
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com?user=prinzai&theme=radical&date_format=j%20M%5B%20Y%5D" alt="prinzai" />
   
-<imgsrc="https://github-readme-stats.vercel.app/api/top-langs?username=prinzai&show_icons=true&theme=radical&locale=en&layout=compact" alt="prinzai" /></p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=prinzai&show_icons=true&theme=radical&locale=en&layout=compact" alt="prinzai" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prinzai&show_icons=true&theme=radical&locale=en" alt="prinzai" /></p>
 </p>
