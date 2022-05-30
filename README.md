@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=prinzai&theme=radical&date_format=j%20M%5B%20Y%5D" alt="prinzai" />
 <!--
 **PrinzAI/PrinzAI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
