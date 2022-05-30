@@ -3,12 +3,13 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=monolisa&lines=(!Professional)+Gamer&center=true)](https://git.io/typing-svg)
 
+![GitHub followers](https://img.shields.io/github/followers/prinzai?color=ff1493&style=for-the-badge) 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prinzai&label=Profile%20views&color=0e75b6&style=flat-square" alt="prinzai" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prinzai&theme=radical&column=-1" alt="prinzai" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
-![GitHub followers](https://img.shields.io/github/followers/prinzai?color=ff1493&style=for-the-badge) 
 <p align="left"> 
 <a href="https://codepen.io/prinzu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="prinzu" height="30" width="40" /></a>
 <a href="https://twitter.com/le_prinzuu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="le_prinzuu" height="30" width="40" /></a>
