@@ -1,5 +1,5 @@
 <h1 align="left">Hello there gamer, I'm Prinzai</h1>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=monolisa&lines=I'm+passionate+about+programming+(I+think)+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=monolisa&color=F70FB6&center=true&lines=I'm+passionate+about+programming...;I+think)](https://git.io/typing-svg)
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prinzai&label=Profile%20views&color=0e75b6&style=flat-square" alt="prinzai" /> </p>
