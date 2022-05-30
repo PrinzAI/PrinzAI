@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prinzai&label=Profile%20views&color=0e75b6&style=flat-square" alt="prinzai" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prinzai" alt="prinzai" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prinzai&theme=radical" alt="prinzai" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -18,14 +18,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prinzai&show_icons=true&theme=tokyonight&locale=en" alt="prinzai" /></p>
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=prinzai&theme=radical&date_format=j%20M%5B%20Y%5D" alt="prinzai" />
-  
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=prinzai&show_icons=true&theme=radical&locale=en&layout=compact" alt="prinzai" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prinzai&show_icons=true&theme=radical&locale=en" alt="prinzai" /></p>
-</p>
-  
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=prinzai&theme=radical&date_format=j%20M%5B%20Y%5D" alt="prinzai" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=prinzai&show_icons=true&theme=radical&locale=en&layout=compact" alt="prinzai" /></p>
 <!--
 **PrinzAI/PrinzAI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
