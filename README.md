@@ -23,7 +23,7 @@
 
 [![Prinzu's github stats](https://github-readme-stats.vercel.app/api?username=prinzai&theme=radical)](https://github.com/prinzai/github-readme-stats)
 <!--<p align="left"><img src="https://github-readme-streak-stats.herokuapp.com?user=prinzai&theme=radical&date_format=j%20M%5B%20Y%5D" alt="prinzai" /></p>-->
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=s83gc6s9d4qfx7uqrsthyu27i&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color=ff4576&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=s83gc6s9d4qfx7uqrsthyu27i&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=s83gc6s9d4qfx7uqrsthyu27i&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=ff4576&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=s83gc6s9d4qfx7uqrsthyu27i&redirect=true)
 <!--
 **PrinzAI/PrinzAI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
